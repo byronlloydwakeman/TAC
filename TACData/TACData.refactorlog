@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="d8d7e2a4-5ef9-4958-966f-296f299a606a" ChangeDateTime="07/24/2021 12:43:54">
+    <Property Name="ElementName" Value="[dbo].[AutoClickModels].[Summon]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[AutoClickModels]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Minions" />
+  </Operation>
+</Operations>
