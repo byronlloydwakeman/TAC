@@ -7,4 +7,11 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="Minions" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="322456b2-a5f2-47ed-96df-13e1ee660b8b" ChangeDateTime="07/24/2021 21:06:07">
+    <Property Name="ElementName" Value="[dbo].[AutoClickModels].[Moves]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[AutoClickModels]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SequenceOfMoves" />
+  </Operation>
 </Operations>

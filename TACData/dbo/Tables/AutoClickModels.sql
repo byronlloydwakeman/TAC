@@ -12,6 +12,6 @@
     [Buffs] NVARCHAR(50) NULL,
     [Weapons] NVARCHAR(100) NOT NULL, 
     [Boss] NVARCHAR(20) NOT NULL, 
-    [Moves] NVARCHAR(MAX) NOT NULL, 
+    [SequenceOfMoves] NVARCHAR(MAX) NOT NULL, 
     [Timing] NVARCHAR(MAX) NOT NULL
 )
